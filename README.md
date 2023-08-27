@@ -1,7 +1,8 @@
-### Hi there 👋
+### WAZAAAAAAAAAAAAAAAP
 - 🔭 I’m currently working on "AmazonHg" 
 - 🌱 I’m currently learning Object-Oriented Programing 
-- 👯 I’m looking to collaborate on Embended Sistem projects
+- 👯 I’m looking to collaborate on Embedded System projects
+- 
 <!--
 **Jeff181U/Jeff181U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
