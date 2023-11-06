@@ -1,5 +1,5 @@
 ### WAZAAAAAAAAAAAAAAAP
-- 🔭 I’m currently working on "AmazonHg" 
+- 🔭 I’m currently 
 - 🌱 I’m currently learning Object-Oriented Programing 
 - 👯 I’m looking to collaborate on Embedded System projects
   
