@@ -1,7 +1,6 @@
 ### WAZAAAAAAAAAAAAAAAP
-- 🔭 I’m currently 
-- 🌱 I’m currently learning Object-Oriented Programing 
-- 👯 I’m looking to collaborate on Embedded System projects
+- 🌱 Currently learning Web Back-End with Java
+- 👯 I’m looking to collaborate on Embedded Systems or mobile aplications jobs
   
 <!--
 **Jeff181U/Jeff181U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
