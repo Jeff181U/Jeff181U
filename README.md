@@ -2,7 +2,7 @@
 ### Lima D. Jeff
 - 🌱 Currently learning Web Back-End with Java
 - 👯 I’m looking to collaborate on Embedded Systems, mobile aplications jobs or any RELATED to TI
-- 📫 If there´s something you looking for, check my LinkedIn www.linkedin.com/in/jeffersondamiaodasilvalima
+- 📫 If there´s something you looking for, check out my LinkedIn www.linkedin.com/in/jeffersondamiaodasilvalima
  ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 <!--
 **Jeff181U/Jeff181U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
