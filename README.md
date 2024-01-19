@@ -1,6 +1,6 @@
 
 ### Lima D. Jeff
-- 🌱 Currently learning Kotlin 
+- 🌱 Currently learning Java 
 - 👯 I’m looking to collaborate on Embedded Systems, mobile aplications jobs or anything related.
 - 📫 If there´s something you looking for, check out my LinkedIn www.linkedin.com/in/jeffersondamiaodasilvalima
 
