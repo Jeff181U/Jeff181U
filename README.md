@@ -9,10 +9,10 @@
   </a>
 </div>
 <div>
-  <a href="https://github.com/paulosalvatore" target="_blank">
+  <a href="https://github.com/Jeff181U" target="_blank">
     <img src="https://img.shields.io/github/followers/paulosalvatore?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/paulosalvatore" target="_blank">
+  <a href="https://github.com/Jeff181U" target="_blank">
     <img src="https://img.shields.io/github/stars/paulosalvatore?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
 </div>
