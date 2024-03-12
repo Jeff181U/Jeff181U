@@ -8,14 +8,7 @@
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
 </div>
-<div>
-  <a href="https://github.com/Jeff181U" target="_blank">
-    <img src="https://img.shields.io/github/followers/paulosalvatore?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/Jeff181U" target="_blank">
-    <img src="https://img.shields.io/github/stars/paulosalvatore?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
-  </a>
-</div>
+
 
 - 🌱 Currently learning Java
 - 👯 I’m looking to collaborate on Embedded Systems, AI development, mobile aplications jobs or anything related.
