@@ -10,10 +10,10 @@
 </div>
 
 
-- 🌱 Currently learning Java
+- 🌱 Currently learning Kotlin...
 - 👯 I’m looking to collaborate on Embedded Systems, AI development, mobile aplications jobs or anything related.
 - 📫 If there´s something you looking for, check out my LinkedIn www.linkedin.com/in/jeffersondamiaodasilvalima
-- ⚡ I have some experience with C/C++, Python, OpenGL, SQL, MCUs, Ladder...
+- ⚡ I have some experience with C/C++, Python, OpenGL, Django, SQL, MCUs, Ladder...
 
 <!--
 **Jeff181U/Jeff181U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
