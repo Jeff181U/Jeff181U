@@ -11,7 +11,7 @@
 
 
 - 🌱 Currently learning Kotlin...
-- 👯 I’m looking to collaborate on Embedded Systems, AI development, mobile aplications jobs or anything related.
+- 👯 I’m looking to collaborate on Embedded Systems, Data Science, mobile aplications jobs or anything related.
 - 📫 If there´s something you looking for, check out my LinkedIn www.linkedin.com/in/jeffersondamiaodasilvalima
 - ⚡ I have some experience with C/C++, Python, OpenGL, Django, SQL, MCUs, Ladder...
 
